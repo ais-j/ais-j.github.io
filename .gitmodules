@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "content/discussion-papers"]
+	path = content/discussion-papers
+	url = https://github.com/ais-j/discussion-papers
